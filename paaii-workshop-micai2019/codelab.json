@@ -1,0 +1,25 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2019-10-02T18:11:53-05:00",
+  "id": "paaii-workshop-micai2019",
+  "duration": 15,
+  "title": "Predictive Analytics and Artificial Intelligence for the Industry 4.0 Workshop (with Python)",
+  "summary": "PAAII Description",
+  "source": "paaii-announcement.md",
+  "theme": "",
+  "status": [
+    "draft"
+  ],
+  "category": [
+    "codelab",
+    "markdown"
+  ],
+  "tags": [
+    "web"
+  ],
+  "feedback": "https://github.com/Mrc0113/codelab-4-codelab",
+  "url": "paaii-workshop-micai2019"
+}
