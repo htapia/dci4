@@ -1,6 +1,6 @@
 author: Horacio Tapia-McClung
 summary: PAAII Description
-id: paaii-workshop-micai2019
+id: paaii-announcement
 categories: codelab,markdown
 environments: Web
 status: Draft
@@ -51,4 +51,3 @@ Here is an example image of another CodeLab that I created:
 * [Google CodeLabs Tools Github](https://github.com/googlecodelabs/tools) - The repo that contains the claat tool we'll be using today
 * [Google Group for CodeLab Authors](https://groups.google.com/forum/#!forum/codelab-authors) - great forum for asking questions about codelabs and discussing future functionality
 * [A blog that I used when getting started with Google Codelabs](https://medium.com/@mariopce/tutorial-how-to-make-tutorials-using-google-code-labs-gangdam-style-d62b35476816)
-
